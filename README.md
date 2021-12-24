@@ -22,8 +22,8 @@ The main focus of the project is to connect patients with urgent matters with ou
 
 ## Setting Up the Environment
 
-1. Install the requirements and dependancies
-    PS: It's a must to have mysql driver installed on your machine
+1. Install the requirements and dependancies\
+    *PS: It's a must to have mysql driver installed on your machine*
     ```sh
     pip install tk
     pip install pycopy-errno
