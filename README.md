@@ -1,5 +1,5 @@
-# Private-Chat
- This is a simple private chat app between specialized doctors (Psychiatrists and Cardiologists) and patients who need a to have an urgent private conversation.
+# Medical Consultant
+ This is a private medical consultant messaging app between specialized doctors (psychiatrists, cardiologists etc..) and patients who need a to have an urgent private conversation.
 
 
 ## Table of Contents
